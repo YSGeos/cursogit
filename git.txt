@@ -24,3 +24,5 @@ git config --global alias.s "status -s -b"
 
 git checkout -b Geos (un branch nuevo)
 
+git branch (saber cuantas ramas tengo)
+
