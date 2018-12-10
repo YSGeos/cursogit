@@ -15,3 +15,9 @@ git commit
 
 git log
 git reset
+
+git log --oneline
+    git log --oneline --decorate --all --graph
+
+git config --global alias.lg "log --oneline --decorate --all --graph"
+git config --global alias.s "status -s -b"
