@@ -27,3 +27,6 @@ git checkout -b Geos (un branch nuevo)
 git branch (saber cuantas ramas tengo)
 
 git merge
+
+git checkout (poner hash para ir a ese momento)
+
