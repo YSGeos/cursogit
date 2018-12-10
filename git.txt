@@ -30,3 +30,5 @@ git merge
 
 git checkout (poner hash para ir a ese momento)
 
+git branch -d Geos (eliminar branch)
+
