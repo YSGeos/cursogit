@@ -9,3 +9,9 @@ git commit
 
 (MarkDown (MD (MarkDonw Viewer plugin en chrome)))
 
+git add . (Todo)
+git status 
+git commit
+
+git log
+git reset
