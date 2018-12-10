@@ -1,0 +1,11 @@
+git config --global user.name "Geos"
+
+git config --global user.name "geosdmc@gmail.com"
+
+git --help
+git init
+git add
+git commit
+
+(MarkDown (MD (MarkDonw Viewer plugin en chrome)))
+

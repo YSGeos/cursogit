@@ -1,0 +1,17 @@
+# titulo
+## subtitulo
+Parrafo normal
+leta **negrita**
+letra _cursiva_
+> Cita - Autor
+--- Barra Horizontal
+
+Lista
+
+* Punto
+* Punto 2
+
+Lista numerada
+
+
+(Como hacer Links en MarkDown)
